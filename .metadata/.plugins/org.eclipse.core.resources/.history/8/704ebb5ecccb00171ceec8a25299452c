@@ -1,0 +1,8 @@
+package testowy;
+
+public class MainClass {
+
+	public static main(){
+		
+	}
+}
